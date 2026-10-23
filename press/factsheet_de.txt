@@ -1,0 +1,64 @@
+﻿GNOME HORDE: GARDEN DEFENSE
+Factsheet für die Presse
+
+Eine Bazillion Gartenzwerge. Ein Häuschen.
+
+
+FAKTEN
+
+Titel:          Gnome Horde: Garden Defense
+Entwickler:     Jonas Funk
+Publisher:      No Luck Left Studios
+Sitz:           Deutschland
+Erscheint:      2027 (Coming Soon auf Steam)
+Plattform:      Windows (Steam)
+Preis:          wird noch bekannt gegeben
+Sprachen:       Deutsch, Englisch
+Spieler:        1-2 (Online-Koop im Endlos-Modus)
+Steuerung:      Maus und Tastatur, volle Controller-Unterstützung
+Genre:          Gemütliches Tower-Defense mit Incremental-Ausbau
+Engine:         Godot (C#)
+Steam:          https://store.steampowered.com/app/5432710/
+Pressekontakt:  noluckleftsupport@gmail.com
+
+
+KURZBESCHREIBUNG
+
+Eine Bazillion Gartenzwerge. Ein Häuschen. Stell Rasensprenger, Kompostkanonen und Topf-Mörser in deine Beete, gib ihnen ein Ziel und sieh zu, wie Tausende Keramikzwerge klirrend zerspringen. Bau mit den Scherben deinen Gartenschuppen aus, allein oder im Koop mit einem Freund.
+
+
+BESCHREIBUNG
+
+Irgendwo über den Wolken schwebt ein kleiner Garten mit einem gemütlichen Häuschen. Leider haben die Gartenzwerge beschlossen, dass es ihnen gehört. Allen. Gleichzeitig.
+
+Gnome Horde: Garden Defense ist ein gemütliches Tower-Defense mit Incremental-Herz. Du stellst Spielzeug-Türme in Beete und Hecken, gibst ihnen einen Zielpunkt und eine Streuung, und dann rollt die Horde an: Tausende glasierte Keramikzwerge marschieren auf dein Häuschen zu und zerspringen klirrend in Scherben. Aus Scherben werden Upgrades, aus Upgrades stärkere Türme und aus stärkeren Türmen noch mehr Scherben.
+
+
+FEATURES
+
+- Jeden Turm selbst ausrichten: zehn Spielzeug-Türme, vom Rasensprenger bis zur Vogelscheuche. Die meisten suchen sich ihr Ziel nicht selbst: Du klickst einen Zielpunkt an und stellst mit dem Mausrad die Streuung ein.
+- Eine Horde zum Zerdeppern: Tausende glasierte Keramikzwerge, in den größten Schlachten über 100.000.
+- Zehn Gärten, zwanzig Level: vom Garten am Häuschen bis zum glühenden Vulkangarten. Acht Sorten Zwerge und ganz am Ende ein Riese.
+- Der Gartenschuppen: über 100 Upgrades, eine Spezialisierung für jeden Turm und drei Währungen (Scherben, Goldmützen, Glücksklee).
+- Endlos-Modus und Koop: wachsende Wellen, jede zehnte mit Boss; allein oder zu zweit über Steam, auf der ganzen Karte oder jeder auf seiner Hälfte.
+- Vier Fähigkeiten in der Schlacht (Wasserbombe, Rasenmäher, Riesenkürbis, Frostschlauch) in Tempo 1x, 2x oder 3x. Volle Controller-Unterstützung, Deutsch und Englisch.
+
+
+DER ENTWICKLER
+
+Jonas Funk ist ein unabhängiger Solo-Entwickler aus Deutschland. Gnome Horde: Garden Defense entsteht mit der Godot-Engine und C#. Zwerge, Türme und Gartendeko sind im Code gebaut, Screenshots, Clips und Trailer zeigen das echte Spiel, und sogar Key Art und Logo sind vom Spiel selbst gerendert.
+
+
+IN DIESEM PRESSKIT
+
+screenshots/   17 Screenshots, 1920x1080 PNG, mit Bildunterschriften (captions.txt). Texte im Bild sind Englisch.
+logos/         das Logo als transparentes PNG, gestapelt und einzeilig
+key_art/       Key Art mit und ohne Logo, Steam-Kapseln
+Trailer (MP4, 1080p) und kurze Spielszenen gibt es auf der Presskit-Website.
+
+
+NUTZUNG
+
+Screenshots, Clips, Trailer, Logos und Key Art dürfen gern für Artikel, Tests, Vorschauen, Videos und Streams über Gnome Horde: Garden Defense verwendet werden. Bitte das Logo nicht verändern und das Material nicht für andere Produkte einsetzen. Das Spiel ist noch in Entwicklung, Details können sich bis zum Release ändern.
+
+Fragen, Interviewanfragen oder Material in höherer Qualität, etwa den Trailer als Master (1080p60, rund 180 MB, höhere Bitrate): noluckleftsupport@gmail.com

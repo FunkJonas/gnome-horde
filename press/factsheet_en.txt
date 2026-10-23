@@ -1,0 +1,64 @@
+﻿GNOME HORDE: GARDEN DEFENSE
+Press factsheet
+
+A bazillion garden gnomes. One cottage.
+
+
+FACTS
+
+Title:          Gnome Horde: Garden Defense
+Developer:      Jonas Funk
+Publisher:      No Luck Left Studios
+Based in:       Germany
+Release date:   2027 (Coming Soon on Steam)
+Platform:       Windows (Steam)
+Price:          TBA
+Languages:      English, German
+Players:        1-2 (online co-op in endless mode)
+Controls:       Mouse and keyboard, full controller support
+Genre:          Cozy tower defense with incremental upgrades
+Engine:         Godot (C#)
+Steam:          https://store.steampowered.com/app/5432710/
+Press contact:  noluckleftsupport@gmail.com
+
+
+SHORT DESCRIPTION
+
+A bazillion garden gnomes. One cottage. Plant sprinklers, compost cannons and pot mortars in your flower beds, give them a target and watch thousands of ceramic gnomes shatter with a satisfying clink. Spend the shards in your garden shed, alone or in co-op with a friend.
+
+
+DESCRIPTION
+
+Somewhere above the clouds floats a tiny garden with a cosy little cottage. Unfortunately, the garden gnomes have decided it belongs to them. All of them. At once.
+
+Gnome Horde: Garden Defense is a cosy tower defense with an incremental heart. Plant toy towers in flower beds and hedges, give each one a target point and a spread, and then the horde rolls in: thousands of glazed ceramic gnomes march on your cottage and shatter into shards with a satisfying clink. Shards become upgrades, upgrades become stronger towers, and stronger towers make even more shards.
+
+
+FEATURES
+
+- Aim every tower: ten toy towers, from the Sprinkler to the Scarecrow. Most of them don't pick their own targets: you click a target point and set the spread with the mouse wheel.
+- A horde made to shatter: thousands of glazed ceramic gnomes, more than 100,000 in the biggest battles.
+- Ten gardens, twenty levels: from the Cottage Garden to the glowing Volcano Garden. Eight kinds of gnomes, and at the very end a giant.
+- The garden shed: over 100 upgrades, a specialisation for every tower and three currencies (shards, golden hats, lucky clovers).
+- Endless mode and co-op: growing waves, a boss every tenth wave; solo or with a friend over Steam, on the whole map or a half each.
+- Four abilities in battle (Water Bomb, Lawnmower, Giant Pumpkin, Frost Hose) at 1x, 2x or 3x speed. Full controller support, English and German.
+
+
+ABOUT THE DEVELOPER
+
+Jonas Funk is an independent solo developer based in Germany. Gnome Horde: Garden Defense is made with the Godot engine and C#. The gnomes, towers and garden props are built in code, the screenshots, clips and trailer show the real game, and even the key art and the logo are rendered by it.
+
+
+IN THIS PRESS KIT
+
+screenshots/   17 screenshots, 1920x1080 PNG, with captions (captions.txt). Texts in the pictures are English.
+logos/         the logo as transparent PNG, stacked and on one line
+key_art/       key art with and without the logo, Steam capsules
+The trailer (MP4, 1080p) and short gameplay loops are on the press kit website.
+
+
+USING THE MATERIAL
+
+You are welcome to use the screenshots, clips, trailer, logos and key art in articles, reviews, previews, videos and streams about Gnome Horde: Garden Defense. Please don't alter the logo, and don't use the material to advertise other products. The game is still in development, so details may change before release.
+
+Questions, interview requests or material in higher quality, such as the trailer master (1080p60, about 180 MB, higher bitrate): noluckleftsupport@gmail.com
