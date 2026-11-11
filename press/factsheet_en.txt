@@ -11,23 +11,23 @@ Developer:      Jonas Funk
 Publisher:      No Luck Left Studios
 Based in:       Germany
 Release date:   Coming Soon on Steam
-Demo:           Coming Soon on Steam: the first four gardens, up to the Autumn Garden (level 4-2)
+Demo:           Free on Steam from early December 2026: the first four gardens, up to the Autumn Garden (level 4-2)
 Platform:       Windows (Steam)
-Price:          TBA
+Price:          $9.99 (USD; regional prices on Steam)
 Languages:      12: English, German, French, Spanish, Italian, Brazilian Portuguese, Simplified Chinese, Russian, Polish, Turkish, Japanese, Korean
 Players:        1-2 (online co-op in endless mode)
 Controls:       Mouse and keyboard, full controller support
 Genre:          Cozy tower defense with incremental upgrades
 Engine:         Godot (C#)
-Steam:          https://store.steampowered.com/app/5432710/
-Steam (Demo):   https://store.steampowered.com/app/5514660/
+Steam:          https://store.steampowered.com/app/5432710/?utm_source=presse&utm_medium=presskit&utm_campaign=presskit
+Steam (Demo):   https://store.steampowered.com/app/5514660/?utm_source=presse&utm_medium=presskit&utm_campaign=presskit
 Discord:        https://discord.gg/z5Zp9N2Ypt
 Press contact:  noluckleftsupport@gmail.com
 
 
 SHORT DESCRIPTION
 
-A bazillion garden gnomes. One cottage. Plant sprinklers, compost cannons and pot mortars in your flower beds, give them a target and watch thousands of ceramic gnomes shatter with a satisfying clink. Spend the shards in your garden shed, alone or in co-op with a friend.
+A bazillion garden gnomes. One cottage. A cozy tower defense: plant toy towers in your flower beds, aim them and watch up to 220,000 ceramic gnomes shatter in one battle. Spend the shards in your garden shed, then hold out in endless mode, solo or in online co-op for two.
 
 
 DESCRIPTION
@@ -39,13 +39,13 @@ Gnome Horde: Garden Defense is a cosy tower defense with an incremental heart. P
 
 DEMO
 
-The demo holds the game's first four gardens, from the Cottage Garden to the Autumn Garden (level 4-2): eight levels with up to 65,000 gnomes, five towers and three abilities, plus the Strawberry Patch in endless mode. Endless mode runs on six maps, solo or in online co-op for two. On Windows, the full game picks up your demo progress. The demo is coming soon to Steam.
+The demo holds the game's first four gardens, from the Cottage Garden to the Autumn Garden (level 4-2): eight levels with up to 65,000 gnomes, five towers and three abilities, plus the Strawberry Patch in endless mode. Endless mode runs on six maps, solo or in online co-op for two. On Windows, the full game picks up your demo progress. The free demo is on Steam from early December 2026.
 
 
 FEATURES
 
 - Aim every tower: ten toy towers, from the Sprinkler to the Scarecrow. Most of them don't pick their own targets: you click a target point and set the spread with the mouse wheel.
-- A horde made to shatter: thousands of glazed ceramic gnomes, more than 100,000 in the biggest battles.
+- A horde made to shatter: thousands of glazed ceramic gnomes, up to 220,000 in one battle.
 - Ten gardens, twenty levels: from the Cottage Garden to the glowing Volcano Garden. Eight kinds of gnomes, and at the very end a giant.
 - The garden shed: over 100 upgrades, a specialisation for every tower and three currencies (shards, golden hats, lucky clovers).
 - Endless mode and co-op: growing waves, a boss every tenth wave, more towers for coins between waves. Fourteen maps, solo or with a friend over Steam, on the whole map or a half each.

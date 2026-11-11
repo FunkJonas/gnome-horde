@@ -11,23 +11,23 @@ Entwickler:     Jonas Funk
 Publisher:      No Luck Left Studios
 Sitz:           Deutschland
 Erscheint:      Coming Soon auf Steam
-Demo:           Coming Soon auf Steam: die ersten vier Gärten, bis zum Herbstgarten (Level 4-2)
+Demo:           Kostenlos auf Steam ab Anfang Dezember 2026: die ersten vier Gärten, bis zum Herbstgarten (Level 4-2)
 Plattform:      Windows (Steam)
-Preis:          wird noch bekannt gegeben
+Preis:          9,99 US-Dollar (regionale Preise auf Steam)
 Sprachen:       12: Deutsch, Englisch, Französisch, Spanisch, Italienisch, Portugiesisch (Brasilien), vereinfachtes Chinesisch, Russisch, Polnisch, Türkisch, Japanisch, Koreanisch
 Spieler:        1-2 (Online-Koop im Endlos-Modus)
 Steuerung:      Maus und Tastatur, volle Controller-Unterstützung
 Genre:          Gemütliches Tower-Defense mit Incremental-Ausbau
 Engine:         Godot (C#)
-Steam:          https://store.steampowered.com/app/5432710/
-Steam (Demo):   https://store.steampowered.com/app/5514660/
+Steam:          https://store.steampowered.com/app/5432710/?utm_source=presse&utm_medium=presskit&utm_campaign=presskit
+Steam (Demo):   https://store.steampowered.com/app/5514660/?utm_source=presse&utm_medium=presskit&utm_campaign=presskit
 Discord:        https://discord.gg/z5Zp9N2Ypt
 Pressekontakt:  noluckleftsupport@gmail.com
 
 
 KURZBESCHREIBUNG
 
-Eine Bazillion Gartenzwerge. Ein Häuschen. Stell Rasensprenger, Kompostkanonen und Topf-Mörser in deine Beete, gib ihnen ein Ziel und sieh zu, wie Tausende Keramikzwerge klirrend zerspringen. Bau mit den Scherben deinen Gartenschuppen aus, allein oder im Koop mit einem Freund.
+Eine Bazillion Gartenzwerge. Ein Häuschen. Gemütliches Tower-Defense: Stell Spielzeug-Türme in deine Beete, richte sie aus und zerdeppere bis zu 220.000 Keramikzwerge in einer Schlacht. Bau mit den Scherben deinen Schuppen aus und halte im Endlos-Modus durch, allein oder online zu zweit.
 
 
 BESCHREIBUNG
@@ -39,13 +39,13 @@ Gnome Horde: Garden Defense ist ein gemütliches Tower-Defense mit Incremental-H
 
 DEMO
 
-Die Demo enthält die ersten vier Gärten des Spiels, vom Garten am Häuschen bis zum Herbstgarten (Level 4-2): acht Level mit bis zu 65.000 Zwergen, fünf Türme und drei Fähigkeiten, im Endlos-Modus dazu das Erdbeerbeet. Den Endlos-Modus gibt es auf sechs Karten, allein oder im Online-Koop zu zweit. Unter Windows übernimmt die Vollversion deinen Demo-Fortschritt. Die Demo kommt bald auf Steam.
+Die Demo enthält die ersten vier Gärten des Spiels, vom Garten am Häuschen bis zum Herbstgarten (Level 4-2): acht Level mit bis zu 65.000 Zwergen, fünf Türme und drei Fähigkeiten, im Endlos-Modus dazu das Erdbeerbeet. Den Endlos-Modus gibt es auf sechs Karten, allein oder im Online-Koop zu zweit. Unter Windows übernimmt die Vollversion deinen Demo-Fortschritt. Die kostenlose Demo gibt es ab Anfang Dezember 2026 auf Steam.
 
 
 FEATURES
 
 - Jeden Turm selbst ausrichten: zehn Spielzeug-Türme, vom Rasensprenger bis zur Vogelscheuche. Die meisten suchen sich ihr Ziel nicht selbst: Du klickst einen Zielpunkt an und stellst mit dem Mausrad die Streuung ein.
-- Eine Horde zum Zerdeppern: Tausende glasierte Keramikzwerge, in den größten Schlachten über 100.000.
+- Eine Horde zum Zerdeppern: Tausende glasierte Keramikzwerge, bis zu 220.000 in einer Schlacht.
 - Zehn Gärten, zwanzig Level: vom Garten am Häuschen bis zum glühenden Vulkangarten. Acht Sorten Zwerge und ganz am Ende ein Riese.
 - Der Gartenschuppen: über 100 Upgrades, eine Spezialisierung für jeden Turm und drei Währungen (Scherben, Goldmützen, Glücksklee).
 - Endlos-Modus und Koop: wachsende Wellen, jede zehnte mit Boss, zwischen den Wellen neue Türme für Taler. Vierzehn Karten, allein oder zu zweit über Steam, auf der ganzen Karte oder jeder auf seiner Hälfte.
