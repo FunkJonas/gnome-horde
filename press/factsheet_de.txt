@@ -48,7 +48,7 @@ FEATURES
 - Eine Horde zum Zerdeppern: Tausende glasierte Keramikzwerge, bis zu 220.000 in einer Schlacht.
 - Zehn Gärten, zwanzig Level: vom Garten am Häuschen bis zum glühenden Vulkangarten. Acht Sorten Zwerge und ganz am Ende ein Riese.
 - Der Gartenschuppen: über 100 Upgrades, eine Spezialisierung für jeden Turm und drei Währungen (Scherben, Goldmützen, Glücksklee).
-- Endlos-Modus und Koop: wachsende Wellen, jede zehnte mit Boss, zwischen den Wellen neue Türme für Taler. Vierzehn Karten, allein oder zu zweit über Steam, auf der ganzen Karte oder jeder auf seiner Hälfte.
+- Endlos-Modus und Koop: wachsende Wellen, jede zehnte mit Boss, zwischen den Wellen neue Türme für Taler. Vierzehn Karten, allein oder zu zweit über Steam; im Koop baut ihr beide überall im selben Garten, jeder mit seinem eigenen Gartenschuppen, Häuschen und Taler teilt ihr euch.
 - Vier Fähigkeiten in der Schlacht (Wasserbombe, Rasenmäher, Riesenkürbis, Frostschlauch) in Tempo 1x, 2x oder 3x. Jeder Turm zeigt live, wie viele Zwerge er zerdeppert hat und welchen Anteil am Gesamtschaden er hat. Volle Controller-Unterstützung, 30 Steam-Errungenschaften und Steam Cloud, in 12 Sprachen.
 
 

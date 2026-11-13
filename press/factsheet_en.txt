@@ -48,7 +48,7 @@ FEATURES
 - A horde made to shatter: thousands of glazed ceramic gnomes, up to 220,000 in one battle.
 - Ten gardens, twenty levels: from the Cottage Garden to the glowing Volcano Garden. Eight kinds of gnomes, and at the very end a giant.
 - The garden shed: over 100 upgrades, a specialisation for every tower and three currencies (shards, golden hats, lucky clovers).
-- Endless mode and co-op: growing waves, a boss every tenth wave, more towers for coins between waves. Fourteen maps, solo or with a friend over Steam, on the whole map or a half each.
+- Endless mode and co-op: growing waves, a boss every tenth wave, more towers for coins between waves. Fourteen maps, solo or with a friend over Steam; in co-op you both build anywhere in one garden, each with your own garden shed, and share the cottage and the coins.
 - Four abilities in battle (Water Bomb, Lawnmower, Giant Pumpkin, Frost Hose) at 1x, 2x or 3x speed. Every tower shows live how many gnomes it has smashed and its share of all damage. Full controller support, 30 Steam achievements and Steam Cloud, in 12 languages.
 
 
